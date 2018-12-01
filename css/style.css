@@ -1,14 +1,14 @@
 .photo{
-    max-width: 30%;
+    max-width: 25%;
     margin-bottom: 5%;
 }
 
 .icon{
-    height: 15vh;
+    height: 12vh;
 }
 
 .icon:hover{
-    height: 20vh;
+    height: 15vh;
     transition-duration: 1s;
 }
 
@@ -19,12 +19,22 @@
 .icon_container{
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 .icon_containerb{
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 .skills{
     text-align: center;
     margin-bottom: 5%;
+}
+
+.textfront{
+    margin-left: 10%;
+}
+
+.back{
+    margin-top: 5%;
 }
