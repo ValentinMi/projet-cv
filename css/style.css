@@ -21,11 +21,13 @@
     justify-content: space-around;
     flex-wrap: wrap;
 }
+
 .icon_containerb{
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
 }
+
 .skills{
     text-align: center;
     margin-bottom: 5%;
@@ -37,4 +39,13 @@
 
 .back{
     margin-top: 5%;
+    padding-bottom: 21%;
+}
+
+.skillsblock{
+    padding: 5rem 0;
+}
+
+.about{
+    padding-top: 0;
 }
