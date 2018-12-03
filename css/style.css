@@ -42,10 +42,14 @@
     padding-bottom: 21%;
 }
 
-.skillsblock{
-    padding: 5rem 0;
-}
-
 .about{
     padding-top: 0;
+}
+
+.projects-section{
+    padding: 5% 0;
+}
+
+.expblock{
+    padding: 0;
 }
