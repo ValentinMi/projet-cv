@@ -42,7 +42,6 @@ body{
 
 .back{
     margin-top: 5%;
-    padding-bottom: 21%;
 }
 
 .about{
@@ -73,3 +72,9 @@ body{
 .peetch{
     font-size: 1.2em;
 }
+
+.signup-section{
+    background: linear-gradient(to bottom,rgba(22,22,22,.1) 0,rgba(22,22,22,.5) 75%,#161616 100%),url(../img/wallpp1.jpg);
+    padding: 4rem 0;
+}
+
