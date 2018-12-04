@@ -69,3 +69,7 @@ body{
     display: flex;
     justify-content: center;
 }
+
+.peetch{
+    font-size: 1.2em;
+}
