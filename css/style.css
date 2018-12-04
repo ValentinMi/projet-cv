@@ -1,5 +1,8 @@
+body{
+    letter-spacing: 0;
+}
 .photo{
-    max-width: 25%;
+    max-width: 100%;
     margin-bottom: 5%;
 }
 
@@ -52,4 +55,17 @@
 
 .expblock{
     padding: 0;
+}
+
+.imagecoolrow{
+    justify-content: center; 
+}
+
+.left_to_right{
+    margin-bottom: 1%;
+}
+
+.imagecoolrow2{
+    display: flex;
+    justify-content: center;
 }
