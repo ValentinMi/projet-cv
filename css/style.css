@@ -103,6 +103,14 @@ body{
     margin-bottom: 0;
 }
 
+.phoneicon{
+    height: 5vh;
+}
+
+.mailicon{
+    height: 5vh;
+}
+
 @media (max-width: 640px) {
     .flexcol{
         flex-direction: column;
