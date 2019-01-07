@@ -111,7 +111,7 @@ body{
     height: 5vh;
 }
 
-@media (max-width: 950px) {
+@media (max-width: 1240px) {
     .flexcol{
         flex-direction: column;
     }
