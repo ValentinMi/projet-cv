@@ -7,11 +7,12 @@ body{
 }
 
 .icon{
-    height: 12vh;
+    height: 10vh;
+    transition-duration: 1s;
 }
 
 .icon:hover{
-    height: 15vh;
+    height: 13vh;
     transition-duration: 1s;
 }
 
@@ -119,4 +120,14 @@ body{
 }
 
 
+@media (min-width: 1080px) {
+    .icon{
+        height: 8vh;
+        margin: 1%;
+    }
+
+    .icon:hover{
+        height: 10vh;
+    }
+}
 
